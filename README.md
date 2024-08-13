@@ -1,6 +1,7 @@
 ![logo](https://github.com/shruti-shreya01/shruti-shreya01/blob/main/download.gif)
 
-<h3 align="center">A statistics graduate passionately exploring the vast realms of data science and machine learning.</h3>
+<h3 align="center">A statistics graduate passionately exploring the vast realms of data science and machine learning.
+Working as Data Analyst Intern at Syngenta </h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
