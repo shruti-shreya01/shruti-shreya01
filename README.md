@@ -76,7 +76,13 @@ Working as Data Scientist @Tezo </h3>
 <a href="https://auth.geeksforgeeks.org/user/shreyaas6399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shreyaas6399" height="30" width="40" /></a>
 </p>
 
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 - 📫 How to reach me **shrutiishreyaa01@gmail.com**
 
