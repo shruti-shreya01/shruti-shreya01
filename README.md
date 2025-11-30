@@ -80,7 +80,8 @@ Working as Data Scientist @Tezo </h3>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/shruti-shreya01/shruti-shreya01/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
